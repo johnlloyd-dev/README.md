@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm John Lloyd Daro</h1>
 <h3 align="center">A passionate backend developer from the Philippines.</h3>
 
-- 🔭 I’m currently working on **Hopeminded**
+- 🔭 I’m currently working on: **Hopeminded Web App**
 
-- 🌱 I’m currently learning **React.js, Node.js, Node.js, Coding Principles, Design Patterns**
+- 🌱 I’m currently learning: **React.js, Node.js, Express.js, Typescript, Coding Principles, Design Patterns**
 
-- 💬 Ask me about **PHP, Laravel, Vue, Nuxt, Bootstrap**
+- 💬 Ask me about: **PHP, Laravel, Vue, Nuxt, Bootstrap**
 
-- 📫 How to reach me **adolfojohnlloyd5@gmail.com**
+- 📫 How to reach me: **adolfojohnlloyd5@gmail.com**
 
-- ⚡ Fun fact **I love music.**
+- ⚡ Fun fact: **I love music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
