@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on: **Hopeminded Web App**
 
-- 🌱 I’m currently learning: **React.js, Node.js, Express.js, Typescript, Coding Principles, Design Patterns**
+- 🌱 I’m currently learning: **React.js, Node.js, Express.js, TypeScript, Coding Principles, Design Patterns**
 
-- 💬 Ask me about: **PHP, Laravel, Vue, Nuxt, Bootstrap**
+- 💬 Ask me about: **PHP, JavaScript, Laravel, Vue.js, Nuxt.js, Bootstrap**
 
 - 📫 How to reach me: **adolfojohnlloyd5@gmail.com**
 
